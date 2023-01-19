@@ -7,5 +7,5 @@ output: github_document
 
 ```{r, eval = TRUE}
 ## insert your brilliant working code here
-plot(mtcars$cyl, mtcars$mpg
+plot(mtcars$cyl, mtcars$mpg)
 ```
