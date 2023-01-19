@@ -5,5 +5,7 @@ date: "2023-01-19"
 output: github_document
 ---
 
-# Happy Git
-**Work before run**
+```{r, eval = TRUE}
+## insert your brilliant working code here
+plot(mtcars$cyl, mtcars$mpg
+```
